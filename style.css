@@ -1,0 +1,12 @@
+#header{
+  background: url(images/333.jpg);
+}
+p{
+  color: green;
+}
+#footer{
+  width: 100%;
+  background: url(images/footer.png);
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
